@@ -1,5 +1,8 @@
 * 简介
   查询陕西地区可选车牌
-
+* how to run
+  #+BEGIN_SRC bash
+  $ ./car_number.rb
+  #+END_SRC
 * Author
   Zhang shuai 
